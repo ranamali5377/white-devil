@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   Rana Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -95,12 +95,12 @@ jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
 jalan("   \033[1;91m YOU CAN USE ANY PROXY FOR FAST CLONING BY MUHAMMAD ALI ")	
 jalan("   \033[1;91m MUHAMMAD ALI NAME OF DANGER WHATSAPP NUMBER 03080196362 ")	
 
-jalan("   \033[1;93m Welcome to learning Studio ")
+jalan("   \033[1;93m Welcome to Mr hacker Stuio ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "muskan"
-CorrectPassword = "ali"
+CorrectUsername = "Rana"
+CorrectPassword = "Ali"
 
 
 loop = 'true'
